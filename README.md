@@ -18,8 +18,7 @@ What is the difference between WHERE and HAVING clauses in SQL?
 ANS: WHERE clause
 রেকর্ড (row) ফিল্টার করতে ব্যবহৃত হয়
 
-GROUP BY এর আগে কাজ কর
-ে
+GROUP BY এর আগে কাজ করে
 Aggregate function (COUNT, SUM, AVG ইত্যাদি) ব্যবহার করা যায় না
 
 HAVING clause
