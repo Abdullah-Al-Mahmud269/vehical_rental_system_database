@@ -44,10 +44,12 @@ What is the difference between INNER JOIN and LEFT JOIN in SQL?
 ANS: SQL এর মধ্যে INNER JOIN এবং LEFT JOIN এর পার্থক্য :
 
 INNER JOIN
+
 1.দুইটি টেবিলে যেসব রেকর্ডে মিল আছে, শুধু সেগুলোই দেখায় ।
 2.মিল না থাকলে কোনো রেকর্ড দেখায় না ।
 
 LEFT JOIN
+
 1.বাম টেবিলের সব রেকর্ড দেখায়।
 2.ডান টেবিলে মিল না থাকলে সেই কলামগুলোতে NULL দেখায় ।
 
