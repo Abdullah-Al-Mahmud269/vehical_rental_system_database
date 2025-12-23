@@ -5,6 +5,7 @@ We will run our all code is vs code. Then read the problem and first will will m
 ERD Link: https://lucid.app/lucidchart/7c290cea-6289-478a-8668-74ad99d6b28a/edit?invitationId=inv_d4983981-136c-4d25-8f46-0377edce0278&page=0_0#
 
 Now will solve this problem.
+
 Question 1
 What is a foreign key and why is it important in relational databases?
 
